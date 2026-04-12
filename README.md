@@ -1,2 +1,2 @@
 # DevOps-Practicals 
-# Author: ----->Sonal Kumar
+# Author: ----->Sonal Kumar Mehta
